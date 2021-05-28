@@ -1,0 +1,484 @@
+{
+    "root": {
+        "data": {
+            "id": "cahen6l4yy80",
+            "created": 1617789862024,
+            "text": "Low Code"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cahep8pr0lk0",
+                    "created": 1617790023385,
+                    "text": "功能",
+                    "layout": null,
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cahepbrf84o0",
+                            "created": 1617790030016,
+                            "text": "多租户",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cahywt2l0g80",
+                                    "created": 1617847038444,
+                                    "text": "权限体系",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cahz4pon4gw0",
+                                    "created": 1617847657984,
+                                    "text": "组织架构体系",
+                                    "expandState": "expand",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cahywu3i7kw0",
+                                            "created": 1617847040676,
+                                            "text": "部门",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cahyx0242y80",
+                                            "created": 1617847053653,
+                                            "text": "角色",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cahepg5zm0g0",
+                            "created": 1617790039604,
+                            "text": "应用管理",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cahepns3yig0",
+                                    "created": 1617790056179,
+                                    "text": "创建应用",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "caheqr1ro0o0",
+                                            "created": 1617790141658,
+                                            "text": "标签",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "caheqt3ql0g0",
+                                            "created": 1617790146130,
+                                            "text": "页面",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cahepxn93340",
+                                    "created": 1617790077653,
+                                    "text": "从模块创建",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "caheq09ehs00",
+                                            "created": 1617790083346,
+                                            "text": "应用商店",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cahepsna7eo0",
+                                    "created": 1617790066771,
+                                    "text": "发布应用",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cahywfkh5i80",
+                                            "created": 1617847009051,
+                                            "text": "应用版本",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cahz18tv8340",
+                                            "created": 1617847386202,
+                                            "text": "云部署",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cahz8fuz7nk0",
+                                                    "created": 1617847950056,
+                                                    "text": "公有云",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cahz8ha7f1c0",
+                                                    "created": 1617847953153,
+                                                    "text": "私有云",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "caheqcgapxc0",
+                                    "created": 1617790109885,
+                                    "text": "应用监控",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cahyvz8t5s80",
+                            "created": 1617846973517,
+                            "text": "流程引擎",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cahyw59ad0g0",
+                                    "created": 1617846986606,
+                                    "text": "工作流引擎",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cai3651rfxc0",
+                                    "created": 1617859054233,
+                                    "text": "状态机",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "caheq99etko0",
+                            "created": 1617790102938,
+                            "text": "报表",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cahy6a6queg0",
+                                    "created": 1617844959868,
+                                    "text": "BI",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cahz5omrkbc0",
+                            "created": 1617847734058,
+                            "text": "消息通知",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cahy2x6equw0",
+                    "created": 1617844696457,
+                    "text": "阶段",
+                    "layout": null,
+                    "layout_mind_offset": {
+                        "x": 25,
+                        "y": 185
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cahy2yg34ao0",
+                            "created": 1617844699219,
+                            "text": "第一阶段 动态UI生成",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cahy34lj6vc0",
+                            "created": 1617844712609,
+                            "text": "第二阶段 多数据源集成 ",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cahy3kkybfc0",
+                            "created": 1617844747403,
+                            "text": "第三阶段 应用数据转换",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cahy4ykt9hk0",
+                    "created": 1617844856233,
+                    "text": "行业应用",
+                    "layout": null,
+                    "layout_mind_offset": {
+                        "x": -495,
+                        "y": -38
+                    },
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cai5zfxe0e00",
+                            "created": 1617866992693,
+                            "text": "通用型表单场景",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cai5zlbgkwo0",
+                                    "created": 1617867004428,
+                                    "text": "问卷",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cai5zn53bww0",
+                            "created": 1617867008397,
+                            "text": "企业管理系统",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cai5zu1k59c0",
+                                    "created": 1617867023420,
+                                    "text": "OA",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cai7nnzicxc0",
+                                    "created": 1617871712086,
+                                    "text": "CRM",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cai5zvfyzts0",
+                            "created": 1617867026469,
+                            "text": "企业定制化",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cai60qa1eow0",
+                    "created": 1617867093590,
+                    "text": "商业模式",
+                    "layout_mind_offset": {
+                        "x": 12,
+                        "y": -86
+                    },
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cai61n5f2oo0",
+                            "created": 1617867165145,
+                            "text": "To B",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cai61pqwki00",
+                                    "created": 1617867170797,
+                                    "text": "SaaS平台",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cai61sl142o0",
+                                    "created": 1617867176973,
+                                    "text": "定制化服务",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cai624r8ifc0",
+                            "created": 1617867203469,
+                            "text": "开发平台",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "caisa6nhjrc0",
+                            "created": 1617929898927,
+                            "text": "aPaaS",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cai3gkl4ixs0",
+                    "created": 1617859871697,
+                    "text": "解决方案",
+                    "layout_mind_offset": {
+                        "x": 489,
+                        "y": 40
+                    },
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cai3gnc6t9c0",
+                            "created": 1617859877688,
+                            "text": "前端可视化",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cai3gysal3s0",
+                            "created": 1617859902605,
+                            "text": "前端组件化",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cai3h1fxp7k0",
+                            "created": 1617859908388,
+                            "text": "数据模型",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cai3h9ncp6w0",
+                            "created": 1617859926251,
+                            "text": "API",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cai3hgvuf200",
+                                    "created": 1617859942002,
+                                    "text": "RESTFul",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cai3hiw4h6w0",
+                                    "created": 1617859946372,
+                                    "text": "GraphQL",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "classic-compact",
+    "version": "1.4.43"
+}
