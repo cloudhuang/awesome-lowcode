@@ -63,12 +63,14 @@
    2. 私有化部署？
 4. 前后端模型关联
 5. 流程编辑器 
+   - [字节开源的可视化流程编辑器](https://github.com/bytedance/flow-builder)
    - [LogicFlow](https://github.com/didi/LogicFlow)
    - [vue-flowchart-editor](https://github.com/jnoodle/vue-flowchart-editor#readme)
    - [easy-flow](https://github.com/BiaoChengLiu/easy-flow)
    - [workflow-ui](https://github.com/go-workflow/workflow-ui) - 仿宜搭Vue
    - [workflow-react](https://github.com/cedrusweng/workflow-react) 钉钉审批配置-react版
    - [Workflow](https://github.com/StavinLi/Workflow)  钉钉审批配置-vue版
+
 6. 数据模型编辑
 7. 自定义报表
 
